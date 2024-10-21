@@ -1,7 +1,7 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 
-###Name:VARNIKA.P
-###Register number:212223240170
+### Name:VARNIKA.P
+### Register number:212223240170
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
